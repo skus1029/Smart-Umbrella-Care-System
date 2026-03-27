@@ -1,4 +1,4 @@
-# [Conceptualization] 스마트 우산 안심 케어 플랫폼 "Smart-Umbrella-Care-System"
+# 스마트 우산 안심 케어 플랫폼 "Smart-Umbrella-Care-System"
 
 **학번:** 22211984  
 **이름:** 박준혁  
